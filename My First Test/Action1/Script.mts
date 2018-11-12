@@ -1,4 +1,4 @@
-﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersTxt").Click  @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersTxt")_;_script infofile_;_ZIP::ssf1.xml_;_
+﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersTxt").Click 
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("accordionAttrib1").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("accordionAttrib1")_;_script infofile_;_ZIP::ssf2.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebCheckBox("manufacturer").Set "ON" @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebCheckBox("manufacturer 0")_;_script infofile_;_ZIP::ssf3.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Bose Soundlink Bluetooth").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Bose Soundlink Bluetooth")_;_script infofile_;_ZIP::ssf4.xml_;_
